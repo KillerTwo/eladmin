@@ -11,9 +11,7 @@
 #### 项目简介
 一个基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 JWT、Spring Security、Redis、Vue的前后端分离的后台管理系统
 
-**开发文档：**  [https://el-admin.vip](https://el-admin.vip)
-
-**备用文档：**  [https://doc.el-admin.xin](https://doc.el-admin.xin)
+**开发文档：**  [https://doc.el-admin.xin](https://doc.el-admin.xin)
 
 **体验地址：**  [https://el-admin.xin](https://el-admin.xin)
 
@@ -111,6 +109,8 @@
 
 - 感谢 [JetBrains](https://www.jetbrains.com/) 提供的非商业开源软件开发授权
 
+- 感谢 [七牛云](https://www.qiniu.com/) 提供云存储支持
+
 - 感谢 [PanJiaChen](https://github.com/PanJiaChen/vue-element-admin) 大佬提供的前端模板
 
 - 感谢 [Moxun](https://github.com/moxun1639) 大佬提供的前端 Curd 通用组件
@@ -125,4 +125,4 @@
 项目的发展离不开你的支持，请作者喝杯咖啡吧☕  [Donate](https://el-admin.vip/donation/)
 
 #### 反馈交流
-- QQ交流群：891137268
+- QQ交流群：一群：<strike>891137268</strike> 已满、二群：947578238 无需验证，直接加入
