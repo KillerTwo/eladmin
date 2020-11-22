@@ -11,7 +11,7 @@
 #### 项目简介
 一个基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 JWT、Spring Security、Redis、Vue的前后端分离的后台管理系统
 
-**开发文档：**  [https://doc.el-admin.xin](https://doc.el-admin.xin)
+**开发文档：**  [https://el-admin.vip](https://el-admin.vip)
 
 **体验地址：**  [https://el-admin.xin](https://el-admin.xin)
 
@@ -43,7 +43,7 @@
 - 部门管理：可配置系统组织架构，树形表格展示
 - 岗位管理：配置各个部门的职位
 - 字典管理：可维护常用一些固定的数据，如：状态，性别等
-- 系统日志：记录用户操作日志与异常日志，方便开发人员定位拍错
+- 系统日志：记录用户操作日志与异常日志，方便开发人员定位排错
 - SQL监控：采用druid 监控数据库访问性能，默认用户名admin，密码123456
 - 定时任务：整合Quartz做定时任务，加入任务日志，任务运行情况一目了然
 - 代码生成：高灵活度生成前后端代码，减少大量重复的工作任务
@@ -109,7 +109,7 @@
 
 - 感谢 [JetBrains](https://www.jetbrains.com/) 提供的非商业开源软件开发授权
 
-- 感谢 [七牛云](https://www.qiniu.com/) 提供云存储支持
+- 感谢 [七牛云](https://www.qiniu.com/) 提供的免费云存储与CDN加速支持
 
 - 感谢 [PanJiaChen](https://github.com/PanJiaChen/vue-element-admin) 大佬提供的前端模板
 
@@ -125,4 +125,4 @@
 项目的发展离不开你的支持，请作者喝杯咖啡吧☕  [Donate](https://el-admin.vip/donation/)
 
 #### 反馈交流
-- QQ交流群：一群：<strike>891137268</strike> 已满、二群：947578238 无需验证，直接加入
+- QQ交流群：一群：<strike>891137268</strike> 已满、二群：947578238
